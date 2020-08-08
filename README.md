@@ -7,6 +7,26 @@
 <a href="https://open.kakao.com/me/alvin0319"><br>
 ![](https://img.shields.io/badge/chat%20on-KakaoTalk-yellow)
 </a>
+<script>
+function showRepos(){
+            var xmlHttpRequest = new XMLHttpRequest();
+            xmlHttpRequest.open("GET", "https://api.github.com/users/alvin0319/repos");
+
+            xmlHttpRequest.onreadystatechange = function(){
+                var decodedData = JSON.parse(xmlHttpRequest.responseText);
+                //document.write(`${decodedData.length}`);
+                for(var j = 0; j < decodedData.length; j++){
+                    var repo = decodedData[j];
+
+                    //document.write(`<br>${j}`);
+
+                    document.writeIn("<br>Repo name: " + repo.name);
+                }
+            }
+            xmlHttpRequest.send();
+        }
+</script>
+<input type="button" value="click to load repos..." onclick="showRepos()">
 
 
 
