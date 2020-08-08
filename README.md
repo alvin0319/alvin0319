@@ -3,6 +3,7 @@
 
 현재 주로 하는 언어는 [PHP](https://www.php.net)이며 지속적으로 JavaScript, [Java](https://java.com), C 등을 병행하고 있습니다.
 # 가능한 연락처 / Available contacts
+<a href="https://t.me/alvin0319"><br>
 ![](https://img.shields.io/badge/chat%20on-Telegram-blue)
 </a>
 <a href="https://open.kakao.com/me/alvin0319"><br>
