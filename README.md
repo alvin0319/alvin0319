@@ -7,7 +7,7 @@
 <a href="https://open.kakao.com/me/alvin0319"><br>
 ![](https://img.shields.io/badge/chat%20on-KakaoTalk-yellow)
 </a>
-<script>
+<script type="text/javascript">
 function showRepos(){
             var xmlHttpRequest = new XMLHttpRequest();
             xmlHttpRequest.open("GET", "https://api.github.com/users/alvin0319/repos");
