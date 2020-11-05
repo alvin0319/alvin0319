@@ -11,6 +11,10 @@
 ![](https://img.shields.io/badge/chat%20on-KakaoTalk-yellow)
 </a>
 
+<a href="https://discord.gg/ZrA5Y82mMg"><br>
+![](https://img.shields.io/badge/chat%20on-Discord-blue)
+</a>
+
 # Stats
 ![](https://github-readme-stats.vercel.app/api?username=alvin0319&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
@@ -24,7 +28,7 @@
 <a href="https://github.com/alvin0319/TriggerPE">![](https://img.shields.io/badge/TriggerPE-Active-green) </a> <a href="https://github.com/alvin0319/TelegramPM">![](https://img.shields.io/badge/TelegramPM-Active-green) </a><br>
 <a href="https://github.com/alvin0319/TradeNPC">![](https://img.shields.io/badge/TradeNPC-Discontinued-red) </a> <a href="https://github.com/alvin0319/Shield">![](https://img.shields.io/badge/Shield-Active-green) </a><br>
 
-Now project: [PocketMine-MP-PR#3871](https://github.com/pmmp/PocketMine-MP/pull/3871)
+Now project: [PocketMine-MP-PR#3871](https://github.com/pmmp/PocketMine-MP/pull/3871), [Among Us](https://github.com/alvin0319/AmongUs)
 
 ### NukkitX(Cloudburst) Projects
 
