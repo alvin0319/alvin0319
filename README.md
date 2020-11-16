@@ -1,9 +1,9 @@
 # Overview
-:grinning: 안녕하세요, 저는 [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) 소프트웨어의 플러그인을 개발하고 있는 한 고등학생 입니다.
+:grinning: Hello, I'm student in Okjeong Highschool, and I'm also make [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) plugin.
 
-현재 주로 하는 언어는 [PHP](https://www.php.net)이며 지속적으로 JavaScript, [Java](https://java.com), C 등을 병행하고 있습니다.
+I'm now doing PHP mostly, however, not only PHP but also Java, JavaScripts, C, Pyyhon.
 
-# 가능한 연락처 / Available contacts
+# Available contacts
 <a href="https://t.me/alvin0319"><br>
 ![](https://img.shields.io/badge/chat%20on-Telegram-blue)
 </a>
