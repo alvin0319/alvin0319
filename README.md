@@ -1,7 +1,7 @@
 # Overview
 :grinning: Hello, I'm student in Okjeong Highschool, and I'm also make [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) plugin.
 
-I'm now doing PHP mostly, however, not only PHP but also Java, JavaScripts, C, Pyyhon.
+I do a lot of minecraft-related things, My current programming language is PHP, and my preferred language is JavaScripts. In addition, I am learning Java, C, and Python.
 
 # Available contacts
 <a href="https://t.me/alvin0319"><br>
