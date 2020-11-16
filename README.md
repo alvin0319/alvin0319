@@ -3,6 +3,8 @@
 
 I do a lot of minecraft-related things, My current programming language is PHP, and my preferred language is JavaScripts. In addition, I am learning Java, C, and Python.
 
+If you want to be friends with me, send a friend request to Discord **앨빈#**4196.
+
 # Available contacts
 <a href="https://t.me/alvin0319"><br>
 ![](https://img.shields.io/badge/chat%20on-Telegram-blue)
