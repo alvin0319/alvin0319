@@ -1,5 +1,5 @@
 # Overview
-:grinning: Hello, I'm student in Okjeong Highschool, and I'm also make [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) plugin.
+:grinning: Hello, I'm student in Okjeong Highschool, and I also make [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) plugin.
 
 I do a lot of minecraft-related things, My current programming language is PHP, and my preferred language is JavaScripts. In addition, I am learning Java, C, and Python.
 
