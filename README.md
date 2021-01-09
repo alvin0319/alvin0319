@@ -30,8 +30,6 @@ If you want to be friends with me, send a friend request to Discord **앨빈#000
 <a href="https://github.com/alvin0319/TriggerPE">![](https://img.shields.io/badge/TriggerPE-Active-green) </a> <a href="https://github.com/alvin0319/TelegramPM">![](https://img.shields.io/badge/TelegramPM-Active-green) </a><br>
 <a href="https://github.com/alvin0319/TradeNPC">![](https://img.shields.io/badge/TradeNPC-Discontinued-red) </a> <a href="https://github.com/alvin0319/Shield">![](https://img.shields.io/badge/Shield-Active-green) </a><br>
 
-Now project: [PocketMine-MP-PR#3871](https://github.com/pmmp/PocketMine-MP/pull/3871)(still in progress), [Among Us](https://github.com/alvin0319/AmongUs)(still in progress)
-
 ### NukkitX(Cloudburst) Projects
 
 <a href="https://github.com/alvin0319/EDGE">![](https://img.shields.io/badge/EDGE-Active-green) </a>
