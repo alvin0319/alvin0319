@@ -24,7 +24,15 @@ const info = {
         Discord: "앨빈#0001",
         "Discord Server": "https://discord.gg/ZrA5Y82mMg",
         Kakao: "https://open.kakao.com/me/alvin0319"
-    }
+    },
+    keywords: [
+        "PocketMine-MP",
+        "pmmp",
+        "PMMP Plugin",
+        "PocketMine",
+        "NukkitX",
+        "NukkitX Plugin"
+    ]
 };
 ```
 <!--
