@@ -52,20 +52,6 @@ const info = {
 # Stats
 ![](https://github-readme-stats.vercel.app/api?username=alvin0319&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)
 
-# Projects
-
-### PocketMine-MP Projects
-
-<a href="https://github.com/alvin0319/OffHand">![](https://img.shields.io/badge/Offhand-Active-green) </a> <a href="https://github.com/alvin0319/GodWar">![](https://img.shields.io/badge/GodWar-Active-green) </a><br>
-<a href="https://github.com/alvin0319/NPC">![](https://img.shields.io/badge/NPC-Active-green) </a> <a href="https://github.com/alvin0319/DropBoxBackUp">![](https://img.shields.io/badge/DropboxBackUp-Active-green) </a><br>
-<a href="https://github.com/alvin0319/DoEmote">![](https://img.shields.io/badge/DoEmote-Active-green) </a> <a href="https://github.com/alvin0319/RankText">![](https://img.shields.io/badge/RankText-Active-green) </a><br>
-<a href="https://github.com/alvin0319/TriggerPE">![](https://img.shields.io/badge/TriggerPE-Active-green) </a> <a href="https://github.com/alvin0319/TelegramPM">![](https://img.shields.io/badge/TelegramPM-Active-green) </a><br>
-<a href="https://github.com/alvin0319/TradeNPC">![](https://img.shields.io/badge/TradeNPC-Discontinued-red) </a> <a href="https://github.com/alvin0319/Shield">![](https://img.shields.io/badge/Shield-Active-green) </a><br>
-
-### NukkitX(Cloudburst) Projects
-
-<a href="https://github.com/alvin0319/EDGE">![](https://img.shields.io/badge/EDGE-Active-green) </a>
-
 <!--
 **alvin0319/alvin0319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
