@@ -11,7 +11,8 @@ If you want to be friends with me, send a friend request to Discord **앨빈#000
 const info = {
     name: {
         kor: "김민재",
-        eng: "alvin0319"
+        eng: "kim min jae",
+        aka: "alvin0319"
     },
     "Program languages": [
         "php",
