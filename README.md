@@ -26,7 +26,8 @@ const info = {
         "PocketMine",
         "NukkitX",
         "NukkitX Plugin"
-    ]
+    ],
+    Location: "/etc/local/bin/alvin0319"
 };
 ```
 
