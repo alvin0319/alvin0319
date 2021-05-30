@@ -11,7 +11,8 @@ const info = {
         "php",
         "javascript",
         "java",
-        "python"
+        "python",
+        "kotlin"
     ],
     contacts: {
         Telegram: "https://t.me/alvin0319",
@@ -26,8 +27,7 @@ const info = {
         "PocketMine",
         "NukkitX",
         "NukkitX Plugin"
-    ],
-    Location: "/etc/local/bin/alvin0319"
+    ]
 };
 ```
 
