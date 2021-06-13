@@ -27,7 +27,10 @@ const info = {
         "PocketMine",
         "NukkitX",
         "NukkitX Plugin"
-    ]
+    ],
+    primary_projects: {
+        Kookie: "https://github.com/organization/Kookie"
+    }
 };
 ```
 
