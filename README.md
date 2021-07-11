@@ -4,7 +4,7 @@
 const info = {
     name: {
         kor: "김민재",
-        eng: "kim min jae",
+        eng: "kim minjae",
         aka: "alvin0319"
     },
     "Program languages": [
