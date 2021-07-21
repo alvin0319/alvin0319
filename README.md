@@ -11,7 +11,6 @@ const info = {
         "php",
         "javascript",
         "java",
-        "python",
         "kotlin"
     ],
     contacts: {
