@@ -15,7 +15,7 @@ const info = {
     ],
     contacts: {
         Telegram: "https://t.me/alvin0319",
-        Discord: "앨빈#0001",
+        Discord: "앨빈#7545", // Disabled DM & Friend requests because of DM Ad.
         "Discord Server": "https://discord.gg/ZrA5Y82mMg",
         Kakao: "https://open.kakao.com/me/alvin0319"
     },
