@@ -21,11 +21,8 @@ const info = {
     },
     keywords: [
         "PocketMine-MP",
-        "pmmp",
-        "PMMP Plugin",
-        "PocketMine",
-        "NukkitX",
-        "NukkitX Plugin"
+        "PMMP",
+        "Minecraft Bedrock"
     ],
     primary_projects: {
         Kookie: "https://github.com/organization/Kookie"
