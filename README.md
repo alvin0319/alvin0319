@@ -25,7 +25,8 @@ const info = {
         "Minecraft Bedrock"
     ],
     primary_projects: {
-        Kookie: "https://github.com/organization/Kookie"
+        Kookie: "https://github.com/organization/Kookie",
+        "Kookie-RakLib": "https://github.com/alvin0319/Kookie-RakLib"
     }
 };
 ```
