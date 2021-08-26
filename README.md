@@ -1,5 +1,37 @@
 # Overview
 
+```kotlin
+val info: MutableMap<String, Any> = mutableMapOf(
+    "name" to mutableMapOf<String, String>(
+        "kor" to "김민재",
+        "eng" to "kim minjae",
+        "aka" to "alvin0319"
+    ),
+    "Program Languages" to mutableListOf<String>(
+        "php",
+        "javascript",
+        "java",
+        "kotliln"
+    ),
+    "contacts" to mutableMapOf<String, String>(
+        "Telegram" to "https://t.me/alvin0319",
+        "Discord" to "앨빈#7545",
+        "Discord Server" to "https://discord.gg/ZrA5Y82mMg",
+        "Kakao" to "https://open.kakao.com/me/alvin0319"
+    ),
+    "keywords" to mutableListOf<String>(
+        "PocketMine-MP",
+        "PMMP",
+        "Minecraft: Bedrock Edition"
+    ),
+    "Primary Projects" to mutableMapOf<String>(
+        "Kookie" to "https://github.com/organization/Kookie",
+        "Kookie-RakLib" to "https://github.com/alvin0319/Kookie-RakLib"
+    )
+)
+```
+<!--
+
 ```javascript
 const info = {
     name: {
@@ -30,6 +62,7 @@ const info = {
     }
 };
 ```
+-->
 
 # Stats
 ![](https://github-readme-stats.vercel.app/api?username=alvin0319&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)
