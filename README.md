@@ -15,7 +15,7 @@ val info: MutableMap<String, Any> = mutableMapOf(
     ),
     "contacts" to mutableMapOf<String, String>(
         "Telegram" to "https://t.me/alvin0319",
-        "Discord" to "앨빈#7545",
+        "Discord" to "민재#0319",
         "Discord Server" to "https://discord.gg/ZrA5Y82mMg",
         "Kakao" to "https://open.kakao.com/me/alvin0319"
     ),
