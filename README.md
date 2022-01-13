@@ -11,7 +11,7 @@ val info: MutableMap<String, Any> = mutableMapOf(
         "php",
         "javascript",
         "java",
-        "kotliln"
+        "kotlin"
     ),
     "contacts" to mutableMapOf<String, String>(
         "Telegram" to "https://t.me/alvin0319",
