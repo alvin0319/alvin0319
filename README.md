@@ -1,5 +1,17 @@
 # Overview
 
+Hello! I'm minjae, as known as alvin, alvin0319!
+
+I'm a person who loves open-source software.
+
+All my projects are free and open-sourced. Check out my repositories!
+
+My primary languages are PHP and Kotlin.
+
+Currently I have interests in making a plugin for PocketMine-MP which is the first server software for Minecraft: Bedrock Edition and making Discord Bot using JDA.
+
+Feel free to check out my repositories!
+
 ```kotlin
 val info: MutableMap<String, Any> = mutableMapOf(
     "name" to mutableMapOf<String, String>(
