@@ -1,14 +1,12 @@
 # Overview
 
-Hello! I'm minjae, as known as alvin, alvin0319!
+Hello! I'm alvin0319 (aka. alvin)
 
 I'm a person who loves open-source software.
 
-All my projects are free and open-sourced. Check out my repositories!
+Most of my projects are free and open-sourced. Check out my repositories!
 
-My primary languages are PHP and Kotlin.
-
-Currently I have interests in making a plugin for PocketMine-MP which is the first server software for Minecraft: Bedrock Edition and making Discord Bot using JDA.
+My primary languages are Kotlin and PHP.
 
 Feel free to check out my repositories!
 
@@ -80,3 +78,16 @@ const info = {
 ![](https://github-readme-stats.vercel.app/api?username=alvin0319&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=alvin0319&langs_count=4&count_private=true&theme=nord)
 
+# Projects
+
+### PHP
+* [CustomItemLoader](https://github.com/alvin0319/CustomItemLoader): PocketMine-MP plugin which makes custom item for your server.
+* [Sentry](https://github.com/alvin0319/Sentry): A PocketMine-MP Plugin to report any errors to the Sentry.
+
+### Kotlin
+* [TTalker](https://github.com/alvin0319/TTalker)(private): Google Translate TTS-based Discord Bot.
+* [MusicBot](https://github.com/alvin0319/MusicBot)(private): A Music Bot for my private Discord guilds.
+
+## Web
+* [BedrockRank-backend](https://github.com/BedrockRank/BedrockRank-backend)(private): A Minecraft Bedrock Server rank site, BedrockRank's backend server written in Node.js
+* [BedrockRank-frontend](https://github.com/BedrockRank/BedrockRank-frontend)(private): A Minecraft Bedrock Server rank site, BedrockRank's frontend written in Vue.js
