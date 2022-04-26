@@ -11,7 +11,7 @@ My primary languages are Kotlin and PHP.
 Feel free to check out my repositories!
 
 ```kotlin
-val info: Map<String, Any> = mutableMapOf(
+val info: Map<String, Any> = mapOf(
     "name" to mapOf<String, String>(
         "kor" to "김민재",
         "eng" to "kim minjae",
@@ -34,7 +34,7 @@ val info: Map<String, Any> = mutableMapOf(
         "PMMP",
         "Minecraft: Bedrock Edition"
     ),
-    "Primary Projects" to mapOf<String>(
+    "Primary Projects" to mapOf<String, String>(
         "Kookie" to "https://github.com/organization/Kookie",
         "Kookie-RakLib" to "https://github.com/alvin0319/Kookie-RakLib"
     )
