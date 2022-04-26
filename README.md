@@ -11,30 +11,30 @@ My primary languages are Kotlin and PHP.
 Feel free to check out my repositories!
 
 ```kotlin
-val info: MutableMap<String, Any> = mutableMapOf(
-    "name" to mutableMapOf<String, String>(
+val info: Map<String, Any> = mutableMapOf(
+    "name" to mapOf<String, String>(
         "kor" to "김민재",
         "eng" to "kim minjae",
         "aka" to "alvin0319"
     ),
-    "Program Languages" to mutableListOf<String>(
+    "Program Languages" to listOf<String>(
         "php",
         "javascript",
         "java",
         "kotlin"
     ),
-    "contacts" to mutableMapOf<String, String>(
+    "contacts" to mapOf<String, String>(
         "Telegram" to "https://t.me/alvin0319",
         "Discord" to "민재#0319",
         "Discord Server" to "https://discord.gg/ZrA5Y82mMg",
         "Kakao" to "https://open.kakao.com/me/alvin0319"
     ),
-    "keywords" to mutableListOf<String>(
+    "keywords" to listOf<String>(
         "PocketMine-MP",
         "PMMP",
         "Minecraft: Bedrock Edition"
     ),
-    "Primary Projects" to mutableMapOf<String>(
+    "Primary Projects" to mapOf<String>(
         "Kookie" to "https://github.com/organization/Kookie",
         "Kookie-RakLib" to "https://github.com/alvin0319/Kookie-RakLib"
     )
