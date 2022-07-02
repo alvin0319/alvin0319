@@ -33,10 +33,6 @@ val info: Map<String, Any> = mapOf(
         "PocketMine-MP",
         "PMMP",
         "Minecraft: Bedrock Edition"
-    ),
-    "Primary Projects" to mapOf<String, String>(
-        "Kookie" to "https://github.com/organization/Kookie",
-        "Kookie-RakLib" to "https://github.com/alvin0319/Kookie-RakLib"
     )
 )
 ```
