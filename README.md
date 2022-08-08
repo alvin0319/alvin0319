@@ -50,7 +50,7 @@ val info: Map<String, Any> = mapOf(
 
 ### Kotlin
 * [TTalker](https://github.com/alvin0319/TTalker)(private): Google Translate TTS-based Discord Bot.
-* [MusicBot](https://github.com/alvin0319/MusicBot)(private): A Music Bot for my private Discord guilds.
+* [MusicBot](https://github.com/alvin0319/MusicBot)(private): A Music Bot for Discord guilds.
 
 ### Web
 * [BedrockRank-backend](https://github.com/BedrockRank/BedrockRank-backend)(private): A Minecraft Bedrock Server rank site, BedrockRank's backend server written in Node.js
