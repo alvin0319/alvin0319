@@ -32,7 +32,8 @@ val info: Map<String, Any> = mapOf(
     "keywords" to listOf<String>(
         "PocketMine-MP",
         "PMMP",
-        "Minecraft: Bedrock Edition"
+        "Minecraft: Bedrock Edition",
+        "Discord"
     )
 )
 ```
