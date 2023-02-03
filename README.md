@@ -1,14 +1,11 @@
 # Overview
 
-Hello! I'm alvin0319 (aka. alvin)
+Hello, my name is alvin0319, as known as alvin.
 
-I'm a person who loves open-source software.
+I currently work for several projects such as making [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) plugins, creating [Discord](https://discord.com) Bots.
 
-Most of my projects are free and open-sourced. Check out my repositories!
+Some of my repositories are made to public and enjoyable for everyone, check out them!
 
-My primary languages are Kotlin and PHP.
-
-Feel free to check out my repositories!
 
 ```kotlin
 val info: Map<String, Any> = mapOf(
@@ -21,7 +18,8 @@ val info: Map<String, Any> = mapOf(
         "php",
         "javascript",
         "java",
-        "kotlin"
+        "kotlin",
+        "go"
     ),
     "contacts" to mapOf<String, String>(
         "Telegram" to "https://t.me/alvin0319",
