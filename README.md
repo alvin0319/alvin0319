@@ -2,7 +2,7 @@
 
 Hello, my name is alvin0319, as known as alvin.
 
-I currently work for several projects such as making [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) plugins, creating [Discord](https://discord.com) Bots.
+I currently work for several projects such as making [Discord](https://discord.com) Bots.
 
 Some of my repositories are made to public and enjoyable for everyone, check out them!
 
@@ -15,7 +15,6 @@ val info: Map<String, Any> = mapOf(
         "aka" to "alvin0319"
     ),
     "Program Languages" to listOf<String>(
-        "php",
         "javascript",
         "java",
         "kotlin",
@@ -24,14 +23,7 @@ val info: Map<String, Any> = mapOf(
     "contacts" to mapOf<String, String>(
         "Telegram" to "https://t.me/alvin0319",
         "Discord" to "민재#0319",
-        "Discord Server" to "https://discord.gg/ZrA5Y82mMg",
         "Kakao" to "https://open.kakao.com/me/alvin0319"
-    ),
-    "keywords" to listOf<String>(
-        "PocketMine-MP",
-        "PMMP",
-        "Minecraft: Bedrock Edition",
-        "Discord"
     )
 )
 ```
@@ -42,10 +34,6 @@ val info: Map<String, Any> = mapOf(
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=alvin0319&langs_count=4&count_private=true&theme=nord)
 
 # Projects
-
-### PHP
-* [CustomItemLoader](https://github.com/alvin0319/CustomItemLoader): PocketMine-MP plugin which makes custom item for your server.
-* [Sentry](https://github.com/alvin0319/Sentry): A PocketMine-MP Plugin to report any errors to the Sentry.
 
 ### Kotlin
 * [TTalker](https://github.com/alvin0319/TTalker)(private): Google Translate TTS-based Discord Bot.
